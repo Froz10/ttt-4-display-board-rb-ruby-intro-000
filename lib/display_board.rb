@@ -5,6 +5,6 @@ def display_board(board)
   i = 0
   while i < board.size
     if i = 2
-      
+
   end
 end
